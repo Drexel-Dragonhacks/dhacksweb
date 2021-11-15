@@ -13,7 +13,7 @@ import sketch from "./Assets/sponsorsLogos/sketch.png";
 import ballinger from "./Assets/sponsorsLogos/ballinger.jpg";
 import honors from "./Assets/sponsorsLogos/drexelhonors.png";
 import jetbrains from "./Assets/sponsorsLogos/jetbrains.png";
-
+import logo from "./Assets/logo.png"
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
@@ -30,6 +30,7 @@ import jetbrains from "./Assets/sponsorsLogos/jetbrains.png";
 const TOP_SECTION = {
   TITLE: "DragonHacks 2022",
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
+  IMG_SRC: logo,
   SHORT_DESCRIPTION:
     "Join us on February 19th-20th, 2022 for 24 hours of creation, innovation, & fun.",
 };
@@ -96,7 +97,8 @@ const frequentlyAskedQuestions  = [
       {
         label: "What is a hackathon?",
         content:
-        'A hackathon is a 24 hour event where "hackers" all over the globe will collaborate on creating a functioning software and hardware by the end of the event.'      },
+        'A hackathon is a 24 hour event where "hackers" all over the globe will collaborate on creating a functioning software and hardware by the end of the event.'      
+      },
       {
         label: "Who can attend?",
         content: "DragonHacks is open to all university and high school students are welcome as well so long as they are 18 years of age or older. No prior hackathon or experience is necessary since the event will have workshops and plenty of learning opportunities. Unfortunately, due to Covid-19 school policies, only Drexel students will be able to attend the event in person. We encourage students from other schools to join us virtually on Gather.town!"
@@ -122,8 +124,7 @@ const frequentlyAskedQuestions  = [
       {
         label: "Are there prizes?",
         content: "There are plenty of prizes to be won at DragonHacks 2022! A unique element of DragonHacks is the jaw-dropping prize pool where the winner gets the first choice of prizes, down to the 2nd runner-up, with every member choosing one prize each. All projects must be submitted on Devpost in order to be eligible for judging. Apart from that, your project will be considered for every category/challenge you opt to participate in for a chance to win the specific categorical & sponsored prizes. To get an idea of the kind of prizes we have, check out the prize list for last year here: https://dragonhacks-2021.devpost.com/ "
-      }
-      ,
+      },
       {
         label: "How much will this cost me?",
         content: "Attendance is free. We will also be shipping merch and SWAG items directly to every participant after the event."
