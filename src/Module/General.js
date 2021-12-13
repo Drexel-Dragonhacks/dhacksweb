@@ -1,18 +1,20 @@
 // Importing all sponsors logos from Assets
-import taskade from "./Assets/sponsorsLogos/taskade.png";
+//import taskade from "./Assets/sponsorsLogos/taskade.png";
 import accenture from "./Assets/sponsorsLogos/accenture.svg";
-import vanguard from "./Assets/sponsorsLogos/vanguard.svg";
-import linode from "./Assets/sponsorsLogos/linode.svg";
-import ece from "./Assets/sponsorsLogos/ece.png";
+//import vanguard from "./Assets/sponsorsLogos/vanguard.svg";
+//import linode from "./Assets/sponsorsLogos/linode.svg";
+//import ece from "./Assets/sponsorsLogos/ece.png";
 import echoAR from "./Assets/sponsorsLogos/echoAR.png";
 import ieee from "./Assets/sponsorsLogos/ieee.png";
-import pass from "./Assets/sponsorsLogos/1pass.png";
-import studentlife from "./Assets/sponsorsLogos/studentlife.jpeg";
-import sketch from "./Assets/sponsorsLogos/sketch.png";
+//import pass from "./Assets/sponsorsLogos/1pass.png";
+//import studentlife from "./Assets/sponsorsLogos/studentlife.jpeg";
+//import sketch from "./Assets/sponsorsLogos/sketch.png";
 //import sublime from "./Assets/sponsorsLogos/sublime.png";
-import ballinger from "./Assets/sponsorsLogos/ballinger.jpg";
+//import ballinger from "./Assets/sponsorsLogos/ballinger.jpg";
 import honors from "./Assets/sponsorsLogos/drexelhonors.png";
-import jetbrains from "./Assets/sponsorsLogos/jetbrains.png";
+//import jetbrains from "./Assets/sponsorsLogos/jetbrains.png";
+import gc from "./Assets/sponsorsLogos/gcloud.png"
+import wolfram from "./Assets/sponsorsLogos/wolfram.png"
 import logo from "./Assets/logo.png"
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
@@ -32,7 +34,7 @@ const TOP_SECTION = {
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   IMG_SRC: logo,
   SHORT_DESCRIPTION:
-    "Join us on February 19th-20th, 2022 for 24 hours of creation, innovation, & fun.",
+    "Join us on April 30th-May 1st,2022 for 24 hours of creation, innovation, & fun.",
 };
 
 const SOCIALS = {
@@ -85,10 +87,10 @@ const FOOTER = {
  */
 
 const sponsorLogos = [
-  [{src: ieee}, {src: vanguard}, {src: echoAR}], //Array 1
-  [{src: taskade}, {src: accenture}, {src: sketch}], //Array 2
-  [{src: linode}, {src: jetbrains}, {src: ballinger}], //Array 3
-  [{src: ece}, {src: honors}, {src: studentlife}] //Array 4
+  [{src: ieee}, {src: accenture}, {src: echoAR}], //Array 1
+  [{src: honors}, {src: gc}, {src: wolfram}] //Array 2
+ // [{src: linode}, {src: jetbrains}, {src: ballinger}], //Array 3
+ // [{src: ece}, {src: honors}, {src: studentlife}] //Array 4
 ];
 
 const frequentlyAskedQuestions  = [

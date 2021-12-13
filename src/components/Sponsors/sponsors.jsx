@@ -4,7 +4,7 @@ import {Btn} from "../Top-division-components/Top-division-components.jsx";
 import {SOCIALS} from "../../Module/General";
 
 function SponsorsHead() {
-  return <h1 className="shead">Previous Sponsors </h1>;
+  return <h1 className="shead"> Sponsors </h1>;
 }
 
 function Sponsor(props) {
