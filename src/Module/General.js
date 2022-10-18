@@ -32,11 +32,11 @@ import logo from "./Assets/logo.png"
 
 
 const TOP_SECTION = {
-  TITLE: "DragonHacks 2022",
+  TITLE: "DragonHacks 2023",
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   IMG_SRC: logo,
   SHORT_DESCRIPTION:
-    "Join us on April 30th through May 1st,2022 for 24 hours of creation, innovation, & fun.",
+    "Join us on April 30th through May 1st,2023 for 24 hours of creation, innovation, & fun.",
   HACKERS_REGISTRATION_FORM_LINK:
     "https://form.typeform.com/to/qKW98Cs0"
 };
@@ -53,7 +53,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: "Who We Are",
   LONG_DESCRIPTION:
-    "Welcome to DragonHacks 2022! DragonHacks is Drexel University's 24-hour hackathon which will be hosted by Drexel University IEEE in Spring 2022. The 2022 edition is bringing the brightest minds of the world's best schools to spend 24 hours creating groundbreaking new products from scratch! This year, we are planning for a digital-first hybrid hackathon experience which means that our hackathon will have both in-person and virtual events. Despite the impact of the pandemic, we are making efforts to make the event experience as close to the on-site hackathon as possible for virtual participants. There will be virtual meet-ups, team-building events, tech talks, and workshops, as well as a number of other fun events, all in the course of 24 hours.",
+    "Welcome to DragonHacks 2023! DragonHacks is Drexel University's 24-hour hackathon which will be hosted by Drexel University IEEE in Spring 2023. The 2023 edition is bringing the brightest minds of the world's best schools to spend 24 hours creating groundbreaking new products from scratch! This year, we are planning for a digital-first hybrid hackathon experience which means that our hackathon will have both in-person and virtual events. Despite the impact of the pandemic, we are making efforts to make the event experience as close to the on-site hackathon as possible for virtual participants. There will be virtual meet-ups, team-building events, tech talks, and workshops, as well as a number of other fun events, all in the course of 24 hours.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -113,11 +113,11 @@ const frequentlyAskedQuestions  = [
       ,
       {
         label: "When and where is it?",
-        content: "The hackathon is from April 30th through May 1st, 2022. This event will be hybrid. It will be held in-person, as well as virtually on a platform called Gather (https://gather.town). More details about the event will be emailed to you closer to the event date!"
+        content: "The hackathon is from April 30th through May 1st, 2023. This event will be hybrid. It will be held in-person, as well as virtually on a platform called Gather (https://gather.town). More details about the event will be emailed to you closer to the event date!"
       },
       {
         label: "What if I don't have a team or idea?",
-        content: "If you do not currently have a team or idea, do not fear! Many hackers come in without teams or ideas. There are a number of ways to find teammates, and trust us, hacking with a team is a lot more fun! You will be invited to the official DragonHacks 2022 Slack Workspace as soon as you register for the event, where we will have a team formation channel dedicated to team building and searching for teammates. We will also be holding a couple of team formation events before the kickoff and after the opening ceremony. As for an idea, check out the DragonHacks 2022 Devpost challenges for inspiration on what problems to tackle."
+        content: "If you do not currently have a team or idea, do not fear! Many hackers come in without teams or ideas. There are a number of ways to find teammates, and trust us, hacking with a team is a lot more fun! You will be invited to the official DragonHacks 2023 Slack Workspace as soon as you register for the event, where we will have a team formation channel dedicated to team building and searching for teammates. We will also be holding a couple of team formation events before the kickoff and after the opening ceremony. As for an idea, check out the DragonHacks 2023 Devpost challenges for inspiration on what problems to tackle."
       },
       {
         label: "How many team members can I have?",
@@ -135,7 +135,7 @@ const frequentlyAskedQuestions  = [
       },
       {
         label: "Are there prizes?",
-        content: "There are plenty of prizes to be won at DragonHacks 2022! A unique element of DragonHacks is the jaw-dropping prize pool where the winner gets the first choice of prizes, down to the 2nd runner-up, with every member choosing one prize each. All projects must be submitted on Devpost in order to be eligible for judging. Apart from that, your project will be considered for every category/challenge you opt to participate in for a chance to win the specific categorical & sponsored prizes. To get an idea of the kind of prizes we have, check out the prize list for last year here: https://dragonhacks-2021.devpost.com/ "
+        content: "There are plenty of prizes to be won at DragonHacks 2023! A unique element of DragonHacks is the jaw-dropping prize pool where the winner gets the first choice of prizes, down to the 2nd runner-up, with every member choosing one prize each. All projects must be submitted on Devpost in order to be eligible for judging. Apart from that, your project will be considered for every category/challenge you opt to participate in for a chance to win the specific categorical & sponsored prizes. To get an idea of the kind of prizes we have, check out the prize list for last year here: https://dragonhacks-2021.devpost.com/ "
       },
       {
         label: "Do you provide any hardware?",
@@ -144,7 +144,7 @@ const frequentlyAskedQuestions  = [
       ,
       {
         label: "How do we submit our projects?",
-        content: "All submissions will be due on Sunday at 1:00 PM EST on the DragonHacks 2022 Devpost site (coming live soon). We highly recommend you submit at 12:00 PM EST to give yourself some wiggle room for any last-minute technical issues. Team registrations on Devpost should be done by 10:00 PM EST on Saturday itself and all projects must be submitted on Devpost in order to be eligible for judging and prizes!"
+        content: "All submissions will be due on Sunday at 1:00 PM EST on the DragonHacks 2023 Devpost site (coming live soon). We highly recommend you submit at 12:00 PM EST to give yourself some wiggle room for any last-minute technical issues. Team registrations on Devpost should be done by 10:00 PM EST on Saturday itself and all projects must be submitted on Devpost in order to be eligible for judging and prizes!"
       }
     ]
   ],
